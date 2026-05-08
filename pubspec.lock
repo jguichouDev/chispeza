@@ -21,7 +21,7 @@ packages:
     dependency: "direct main"
     description: flutter
     source: sdk
-    version: "1.0.9"
+    version: "0.0.0"
   material_color_utilities:
     dependency: transitive
     description:
