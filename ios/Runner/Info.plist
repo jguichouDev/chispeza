@@ -27,6 +27,8 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
