@@ -1,6 +1,6 @@
 name: linterna_chispeza
 description: Linterna Chispeza
-version: 1.0.3
+
 environment:
   sdk: ">=3.0.0 <4.0.0"
 
@@ -8,6 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   torch_light: ^1.0.0
+  flutter_launcher_icons: ^0.14.3
 
 flutter:
   uses-material-design: true
@@ -17,3 +18,9 @@ flutter:
     - family: BabaPro
       fonts:
         - asset: assets/fonts/babapro.ttf
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ic_launcher.png"
+  remove_alpha_ios: true
